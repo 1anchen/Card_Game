@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AllDayLibCards.iml" filepath="$PROJECT_DIR$/.idea/modules/AllDayLibCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AllDayLibCards_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AllDayLibCards_main.iml" group="AllDayLibCards" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AllDayLibCards_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AllDayLibCards_test.iml" group="AllDayLibCards" />
+    </modules>
+  </component>
+</project>
